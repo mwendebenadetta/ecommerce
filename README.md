@@ -7,15 +7,12 @@ This is an ecommerce website project developed by Benadetta Mwende using PHP and
 - Home page with featured products
 - Product catalog with images and prices
 - Add to cart and manage cart items
-- Checkout with billing options:
-  - Pochi la Biashara
-  - Send Money
-  - Paybill
+- Checkout page (no payment integration)
 - Auto-generated invoice number
 - Export order as PDF
 - Responsive mobile-friendly design
 - Contact page with form and social media links
-- Admin section (if enabled)
+- Admin section for managing products (if enabled)
 
 ## How to Run
 
