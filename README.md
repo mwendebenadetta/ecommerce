@@ -12,7 +12,7 @@ This is an ecommerce website project developed by Benadetta Mwende using PHP onl
 - Export order as PDF
 - Responsive mobile-friendly design
 - Contact page with form and social media links
-- Admin section for managing products (if enabled)
+- Admin section for managing products.
 
 ## How to Run
 
