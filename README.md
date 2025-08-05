@@ -1,6 +1,6 @@
 # Ecommerce Website
 
-This is an ecommerce website project developed by Benadetta Mwende using PHP only (no database).
+This is an ecommerce website project developed by Benadetta Mwende using PHP with inclusion of database.
 
 ## Features
 
