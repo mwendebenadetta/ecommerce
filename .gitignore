@@ -1,0 +1,21 @@
+# Ignore XAMPP configuration
+*.log
+*.tmp
+
+# Ignore sensitive files
+config.php
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore node modules (if using Node.js later)
+node_modules/
+
+# Ignore vendor (if using PHP Composer later)
+vendor/
