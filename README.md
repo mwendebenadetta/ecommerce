@@ -1,6 +1,6 @@
 # Ecommerce Website
 
-This is an ecommerce website project developed by Benadetta Mwende using PHP and MySQL.
+This is an ecommerce website project developed by Benadetta Mwende using PHP only (no database).
 
 ## Features
 
@@ -18,7 +18,7 @@ This is an ecommerce website project developed by Benadetta Mwende using PHP and
 
 1. Install [XAMPP](https://www.apachefriends.org/index.html).
 2. Place the project folder in the `htdocs` directory.
-3. Start Apache and MySQL from the XAMPP control panel.
+3. Start Apache from the XAMPP control panel.
 4. Open your browser and go to:  
    `http://localhost/ecommerce`
 
