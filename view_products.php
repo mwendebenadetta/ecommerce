@@ -12,7 +12,7 @@ $result = $conn->query("
 <!DOCTYPE html>
 <html>
 <head>
-    <title>🛍️ All Products</title>
+    <title>🛍️ ALL PRODUCTS</title>
     <style>
         body {
             font-family: Arial, sans-serif;
